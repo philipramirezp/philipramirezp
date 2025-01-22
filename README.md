@@ -8,6 +8,7 @@ Economics undergraduate student | Economic Policy | Statistical Programming | Da
 
 - 🎓 [Economics](https://economia.uniandes.edu.co/programas/pregrado-en-economia) undergraduate student at [Universidad de los Andes](https://www.uniandes.edu.co/)
 - 📫 Contact me: mateo21569@gmail.com
+- 🗓 Make an appointment [here](https://calendly.com/philipramirezp)
 - ⚡ Fun fact: I love tennis 😁🎾
 
 ### 🎯 &nbsp;&nbsp;Some technologies I use:
