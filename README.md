@@ -1,6 +1,6 @@
 ## Hi there, I'm Philip Ramírez 👋
 
-- 🎓 Candidato a grado en Economía en la Universidad de los Andes
+- 🎓 Candidato a grado en [Economía](https://economia.uniandes.edu.co/programas/pregrado-en-economia) en la [Universidad de los Andes](https://www.uniandes.edu.co/)
 - 📫 Cómo comunicarse conmigo: mateo21569@gmail.com
 - ⚡ Dato curioso: Me gusta el tenis 😁🎾
 
