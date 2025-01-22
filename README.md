@@ -1,6 +1,6 @@
 # Hi there, I'm Philip Ramírez 👋
 <p align="center">
-  <img src="https://github.com/alexcamachogz/random_images/blob/main/alexcamachogz.png?raw=true" alt="banner that says Alejandra Camacho - Software development enfineer">
+  <img src="https://github.com/philipramirezp/philipramirezp/blob/main/Philip%20Rami%CC%81rez%20EN.png" alt="Philip Ramírez - Economist">
 </p>
 Economics undergraduate student | Economic Policy | Statistical Programming | Data Analytics
 
