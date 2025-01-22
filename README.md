@@ -1,8 +1,11 @@
-## Hi there, I'm Philip Ramírez 👋
+# Hi there, I'm Philip Ramírez 👋
+Economics undergraduate student | Economic Policy | Statistical Programming | Data Analytics
 
-- 🎓 Candidato a grado en [Economía](https://economia.uniandes.edu.co/programas/pregrado-en-economia) en la [Universidad de los Andes](https://www.uniandes.edu.co/)
-- 📫 Cómo comunicarse conmigo: mateo21569@gmail.com
-- ⚡ Dato curioso: Me gusta el tenis 😁🎾
+## About me
+
+- 🎓 [Economics](https://economia.uniandes.edu.co/programas/pregrado-en-economia) undergraduate student at [Universidad de los Andes](https://www.uniandes.edu.co/)
+- 📫 Contact me: mateo21569@gmail.com
+- ⚡ Fun fact: I love tennis 😁🎾
 
 <!--
 **philipramirezp/philipramirezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
