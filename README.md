@@ -32,6 +32,12 @@ Economics undergraduate student | Economic Policy | Statistical Programming | Da
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">&nbsp;&nbsp;
   
 </p>
+
+### 📈 &nbsp;&nbsp;Some of my stats are:
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philipramirezp&theme=default" />
+</p>
+
 <!--
 **philipramirezp/philipramirezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
