@@ -1,6 +1,6 @@
 # Hi there, I'm Philip Ramírez 👋
 <p align="center">
-  <img src="https://github.com/philipramirezp/philipramirezp/blob/main/Philip%20Rami%CC%81rez%20EN.png" alt="Philip Ramírez - Economist">
+  <img src="https://github.com/philipramirezp/philipramirezp/blob/main/PhilipRamirez_LinkedinBanner.png" alt="Philip Ramírez - Economist">
 </p>
 Economics undergraduate student | Economic Policy | Statistical Programming | Data Analytics
 
