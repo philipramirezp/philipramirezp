@@ -2,11 +2,11 @@
 <p align="center">
   <img src="https://github.com/philipramirezp/philipramirezp/blob/main/PhilipRamirez_LinkedinBanner.png" alt="Philip Ramírez - Economist">
 </p>
-Economics undergraduate student | Economic Policy | Statistical Programming | Data Analytics
+Economist | Economic Policy | Statistical Programming | Data Analytics | Machine Learning
 
 ## About me
 
-- 🎓 [Economics](https://economia.uniandes.edu.co/programas/pregrado-en-economia) undergraduate student at [Universidad de los Andes](https://www.uniandes.edu.co/)
+- 🎓 [Economist](https://economia.uniandes.edu.co/programas/pregrado-en-economia) at [Universidad de los Andes](https://www.uniandes.edu.co/)
 - 📫 Contact me: mateo21569@gmail.com
 - 🗓 Make an appointment [here](https://calendly.com/philipramirezp)
 - ⚡ Fun fact: I love tennis 😁🎾
@@ -36,6 +36,9 @@ Economics undergraduate student | Economic Policy | Statistical Programming | Da
 ### 📈 &nbsp;&nbsp;Some of my stats are:
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philipramirezp&theme=default" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipramirezp&langs_count=8&theme=default&layout=pie">
 </p>
 
 <!--
