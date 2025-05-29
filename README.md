@@ -45,10 +45,15 @@ Economist | Economic Policy | Statistical Programming | Data Analytics | Machine
 
 ### 📈 &nbsp;&nbsp;Some of my stats are:
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philipramirezp&theme=default" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=philipramirezp&theme=dark" alt="GitHub Streak" /></a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipramirezp&langs_count=8&theme=default&layout=pie">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philipramirezp&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipramirezp&langs_count=8&theme=dark&layout=pie">
 </p>
 
 <!--
