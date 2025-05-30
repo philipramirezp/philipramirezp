@@ -11,7 +11,7 @@ Economist | Economic Policy | Statistical Programming | Data Analytics | Machine
 - 🗓 Make an appointment [here](https://calendly.com/philipramirezp)
 - ⚡ Fun fact: I love tennis 😁🎾
 
-### 🎯 &nbsp;&nbsp;Some technologies I use:
+## 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
@@ -43,12 +43,12 @@ Economist | Economic Policy | Statistical Programming | Data Analytics | Machine
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">&nbsp;&nbsp;
 </p>
 
-### 👨‍🎓 &nbsp;&nbsp;Education:
+## 👨‍🎓 &nbsp;&nbsp;Education
 <p align="center">
   <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="Datacamp">
 </p>
 
-### 📈 &nbsp;&nbsp;Some of my stats are:
+## 📈 &nbsp;&nbsp;Some of my stats are
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=philipramirezp&theme=dark" alt="GitHub Streak" /></a>
 </p>
