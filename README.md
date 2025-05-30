@@ -38,6 +38,11 @@ Economist | Economic Policy | Statistical Programming | Data Analytics | Machine
   
 </p>
 
+## 🚀 Frameworks & Library
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">&nbsp;&nbsp;
+</p>
+
 ### 👨‍🎓 &nbsp;&nbsp;Education:
 <p align="center">
   <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="Datacamp">
